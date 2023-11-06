@@ -47,6 +47,10 @@ body{
   box-shadow: 7px 7px 12px rgba(0,0,0,0.05);
 }
 .wrapper header{
+  background: linear-gradient(to bottom, #949494fc, #f9f9f9, #f3f3f300, #f6f6f6, #4f4f4f);
+  color: transparent; 
+  -webkit-background-clip: text; 
+  background-clip: text;
   color: rgba(78, 8, 136, 0.742);
   font-size: 27px;
   font-weight: 600;
